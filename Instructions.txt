@@ -1,0 +1,32 @@
+Simple Calculator in Python
+This calculator is created using a GUI built with Tkinter, a standard Graphical User Interface package for Python, included with most Python installations by default.
+
+Checking Tkinter Installation
+To verify if Tkinter is installed, run the following command in your terminal or command prompt:
+
+python -m tkinter
+
+If Tkinter is installed, a simple Tkinter window will open.
+
+Installing Tkinter
+
+If Tkinter is not installed, you can install it using the package manager associated with your Python installation.
+Using pip:
+
+pip install tk
+
+Using conda:
+
+conda install tk
+
+
+Running the Calculator Code
+Once Tkinter is installed, you can run the calculator code. If you've already installed Tkinter, you're ready to go! Simply execute the code.
+
+Code Snippet:
+
+import tkinter as tk
+# Your calculator code goes here
+
+This code sets up the Tkinter library for building graphical user interfaces in Python.
+By following these steps, you'll have a functional Tkinter-based calculator. Happy coding!
